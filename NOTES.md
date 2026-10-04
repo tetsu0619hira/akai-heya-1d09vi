@@ -35,3 +35,9 @@ HTML／CSS／JavaScriptのみ。ビルド不要。Google Fonts（Dela Gothic One
 GitHub publicリポジトリ `tetsu0619hira/akai-heya-1d09vi`、GitHub Pages mainブランチ・ルートでの公開用。
 
 公開URL：https://tetsu0619hira.github.io/akai-heya-1d09vi/
+
+## 確認記録
+- Googleマップへの実リンクをクリックし、伊那市荒井3447 バレンタイン2階の店舗に到達。曜日別営業時間が指定内容と一致し、電話番号登録がないことも確認。
+- Instagramへのリンクは指定URLで新規タブを開くが、2026-10-04の未ログイン検証環境では『Profileは利用できません』と表示。URLを推測で変更せず、お問い合わせ節にアカウントの公開状況・URLの要確認表示を追加。
+- JavaScript構文、全7曜日、日本時間の月曜0時切替を検証済み。375px幅で横スクロールなし・全写真読込・フォーム0件・telリンク0件を確認。
+- GitHub Pagesはmain・ルートでbuild成功、公開URLのHTTP 200を確認。公開後のブラウザ目視は自動承認レビューの利用上限で実行不可。ローカルの埋め込み地図は読込領域が空白で、星評価・口コミが出ないことの最終目視も未完了。iframeのsrcは依頼文指定の住所検索URLと一致しており、店舗カードURLは記述していません。
